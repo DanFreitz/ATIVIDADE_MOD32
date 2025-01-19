@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Atividade_jdbc/src"/>
+	<classpathentry kind="src" path="Atividade Junit/src"/>
+	<classpathentry kind="src" path="Atividade Modulo 17/src"/>
+	<classpathentry kind="src" path="Junit5/src"/>
+	<classpathentry kind="src" path="Modulo 18/src"/>
+	<classpathentry kind="src" path="Modulo 19/src"/>
+	<classpathentry kind="src" path="Modulo19-Reflectins/src"/>
+	<classpathentry kind="src" path="Modulo 20/src"/>
+	<classpathentry kind="src" path="Modulo 21/src"/>
+	<classpathentry kind="src" path="teste/src"/>
+	<classpathentry kind="output" path="Atividade Junit/out/production/Atividade Junit"/>
+</classpath>
